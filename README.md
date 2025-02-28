@@ -1,0 +1,2 @@
+# Bot-Template-.js
+bot
